@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SensorMonitor</string>
+
+    <string name="sensor_info">Sensor Information</string>
+    <string name="sensor_status">Sensor Status</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="no_answer">N/A</string>
+    <string name="no_signal">No Signal</string>
+    <string name="reset_sensor">Reset sensor</string>
+
+    <string name="floating_action_button_alt">Sensor config</string>
+</resources>

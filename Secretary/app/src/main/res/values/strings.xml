@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secretary</string>
+
+    <string name="record_button_label">REC</string>
+</resources>
